@@ -1,2 +1,2 @@
-# NLPChatbot-2
+# NLPChatbot
 index3.html should be in templates folder
